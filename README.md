@@ -4,6 +4,8 @@ Chat with Your PDFs - A Streamlit-based Application
 
 
 ![Screenshot 2023-08-21 000900](https://github.com/AniketSurjuse/AskPDF/assets/111141822/a4a48fb7-8139-4297-8a93-af38bcb4cfec)
+![Screenshot 2023-08-22 020124](https://github.com/AniketSurjuse/AskPDF/assets/111141822/b454c8a4-0ab4-44ba-9438-5152193292ca)
+
 
 
 ## Description
