@@ -9,7 +9,7 @@ import os
 from langchain.chains.question_answering import load_qa_chain
 import pickle
 
-os.environ['OPENAI_API_KEY'] = "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"
+# os.environ['OPENAI_API_KEY'] = "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"
 
 
 st.header(":red[AskPDF]📝")
